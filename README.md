@@ -3,7 +3,7 @@ This repository contains two notebooks that operationalise the ideas on the sema
 
 ## Models and Libraries Used
 
-This project uses the following pretrained models and library:
+This project uses the following library and pretrained models:
 
 - Hugging Face Transformers library  
   License: Apache 2.0  
