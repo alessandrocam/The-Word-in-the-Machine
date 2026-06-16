@@ -11,7 +11,7 @@ This project uses the following pretrained models and library:
 
 - RoBERTa (roberta-large)  
   Developed by Facebook AI (now Meta AI)  
-  License: MIT License    
+  License: MIT License (https://huggingface.co/datasets/choosealicense/licenses/blob/main/markdown/mit.md)      
   https://huggingface.co/FacebookAI/roberta-large  
   https://arxiv.org/abs/1907.11692  
 
